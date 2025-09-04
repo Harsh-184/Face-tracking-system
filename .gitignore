@@ -1,0 +1,12 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.env
+*.ipynb_checkpoints
+output/
+*.mp4
+*.avi
+*.png
+*.jpg
+*.csv
+calib.yaml
